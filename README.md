@@ -49,8 +49,14 @@
 
 ## ОТВЕТ:
 
+щупаем хост 200.200.200.126 nmap'ом
 1. ![Скриншот-1](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_1.png)
+
+щупаем хост 200.200.200.126 nmap'ом
 2. ![Скриншот-2](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_2.png)
+
+появляются логи в Fial2Ban
+3. ![Скриншот-3](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_3.png)
 
 ------
 
@@ -79,7 +85,16 @@
 
 ## ОТВЕТ:
 
-1. ![Скриншот-3](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_3.png)
-2. ![Скриншот-4](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_4.png)
+подбор паролей при включенном Fail2Ban
+1. ![Скриншот-3](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_4.png)
+
+забаненный опасный хост
+2. ![Скриншот-4](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_5.png)
+
+успешный подбор пароля при внесении хоста 200.200.200.143 с "hydra" в игнор-лист
+2. ![Скриншот-4](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_6.png)
+
+успешный подбор пароля при удалении хоста 200.200.200.143 с "hydra" из игнор-листа
+2. ![Скриншот-4](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_7.png)
 
 ------
