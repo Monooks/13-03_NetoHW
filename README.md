@@ -79,7 +79,7 @@
 
 ## ОТВЕТ:
 
-1. ![Скриншот-3](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_3.png)
-2. ![Скриншот-4](https://github.com/Monooks/13-02_NetoHW/blob/main/img/png_4.png)
+1. ![Скриншот-3](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_3.png)
+2. ![Скриншот-4](https://github.com/Monooks/13-03_NetoHW/blob/main/img/png_4.png)
 
 ------
